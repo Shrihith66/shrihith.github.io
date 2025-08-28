@@ -1,4 +1,4 @@
-# 📄 Resume - Shrihith S Poojary
+# 📄 Portfolio - Shrihith S Poojary
 
 ## 👨‍💻 About Me
 Motivated and detail-oriented **Artificial Intelligence and Machine Learning (AIML) engineering student** seeking a position in the IT sector to apply skills in **software development, AI/ML, and data analysis**.  
