@@ -64,4 +64,4 @@ Eager to contribute to **innovative technology solutions** while expanding knowl
 - **🔗 LinkedIn:** [Shrihith S Poojary](https://www.linkedin.com/in/shrihithpoojary)  
 
 ---
-⭐ *This README.md was auto-generated from my resume.*
+⭐ *Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or connect.*
